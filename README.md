@@ -4,12 +4,12 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Profil](https://github.com/Ansaku)**                                                                                |
 
-<br> About Me:
+<br>✨ About Me:
 
 Haii....
-I'm Anki Satya. I'm a Newbie Developer from Indonesia  Join My Channel [Ansaku Bot Channel](https://t.me/ansakubotchannel). Thanks .
+I'm Anki Satya. I'm a Newbie Developer from Indonesia 🇮🇩 Join My Channel [Ansaku Bot Channel](https://t.me/ansakubotchannel). Thanks ❤️.
 
- How to reach me:
+💌 How to reach me:
 
 `Telegram:` [Anki Satya](https://t.me/AnkiSatya) <br>
 `Instagram:` [Anki Satya](https://instagram.com/satya_ask) <br> 
