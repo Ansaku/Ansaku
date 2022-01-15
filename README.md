@@ -7,6 +7,7 @@
 <br>✨ About Me:
 
 Haii....👋
+
 I'm Anki Satya. I'm a Newbie Developer from Indonesia 🇮🇩 Join My Channel [Ansaku Bot Channel](https://t.me/ansakubotchannel). Thanks ❤️.
 
 💌 How to reach me:
