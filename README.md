@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center"> Anki Satya </h1> </p>
 
-|<a href="https://t.me/AnkiSatya/"><img src="https://telegra.ph/file/cef8f20ec0e84b67fbbbb.jpg" width="150px" height="150px" /></a> |
+|<a href="https://t.me/AnkiSatya/"><img src="https://telegra.ph/file/86a8edf9ba658a259aaba.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Profil](https://github.com/Ansaku)**                                                                                |
 
