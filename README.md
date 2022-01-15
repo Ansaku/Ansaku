@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> Anki Satya </h1> </p>
 
-<!--
-**Ansaku/Ansaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|<a href="https://t.me/AnkiSatya/"><img src="https://telegra.ph/file/cef8f20ec0e84b67fbbbb.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Profil](https://github.com/Ansaku)**                                                                                |
 
-Here are some ideas to get you started:
+<br> About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Haii....
+I'm Anki Satya. I'm a Newbie Developer from Indonesia  Join My Channel [Ansaku Bot Channel](https://t.me/ansakubotchannel). Thanks .
+
+ How to reach me:
+
+`Telegram:` [Anki Satya](https://t.me/AnkiSatya) <br>
+`Instagram:` [Anki Satya](https://instagram.com/satya_ask) <br> 
+`Gmail:` ankisatya4@gmail.com <br>
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=Ansaku&show_icons=true&theme=midnight-purple alt=AnkiSatya />
+</p>
+
