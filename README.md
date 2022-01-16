@@ -12,7 +12,7 @@ I'm Anki Satya. I'm a Newbie Developer from Indonesia 🇮🇩 Join My Channel [
 
 💌 How to reach me:
 
-`Telegram:` [Anki Satya](https://t.me/AnkiSatya) <br>
+`Telegram:` [𝔸𝕟𝕜𝕚 𝕊𝕒𝕥𝕪𝕒](https://t.me/AnkiSatya) <br>
 `Instagram:` [Anki Satya](https://instagram.com/satya_ask) <br> 
 `Gmail:` ankisatya4@gmail.com <br>
 
