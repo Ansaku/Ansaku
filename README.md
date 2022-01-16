@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Anki Satya </h1> </p>
+<p align="center"> <h1 align="center"> 𝔸𝕟𝕜𝕚 𝕊𝕒𝕥𝕪𝕒 </h1> </p>
 
 |<a href="https://t.me/AnkiSatya/"><img src="https://telegra.ph/file/86a8edf9ba658a259aaba.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
@@ -12,7 +12,7 @@ I'm Anki Satya. I'm a Newbie Developer from Indonesia 🇮🇩 Join My Channel [
 
 💌 How to reach me:
 
-`Telegram:` [𝔸𝕟𝕜𝕚 𝕊𝕒𝕥𝕪𝕒](https://t.me/AnkiSatya) <br>
+`Telegram:` [Ansaku](https://t.me/AnkiSatya) <br>
 `Instagram:` [Anki Satya](https://instagram.com/satya_ask) <br> 
 `Gmail:` ankisatya4@gmail.com <br>
 
