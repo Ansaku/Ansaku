@@ -12,8 +12,8 @@ I'm Anki Satya. I'm a Newbie Developer from Indonesia 🇮🇩 Join My Channel [
 
 💌 How to reach me:
 
-`Telegram:` [Ansaku](https://t.me/AnkiSatya) <br>
-`Instagram:` [Anki Satya](https://instagram.com/satya_ask) <br> 
+`Telegram:` [Anki Satya](https://t.me/AnkiSatya) <br>
+`Instagram:` [Satya_ask](https://instagram.com/satya_ask) <br> 
 `Gmail:` ankisatya4@gmail.com <br>
 
 <p align="center">
